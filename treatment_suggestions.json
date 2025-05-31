@@ -1,0 +1,123 @@
+{
+    "Apple": {
+        "Good": [
+            "Store apples in a breathable bag in the refrigerator to keep them fresh for up to 6 weeks.",
+            "Keep apples away from bananas and other ethylene-producing fruits to prevent early ripening.",
+            "Wash apples thoroughly before consumption to remove any pesticide residues."
+        ],
+        "Bad": [
+            "Use overripe apples to make applesauce, smoothies, or baked goods like pies and muffins.",
+            "Rotten apples can be composted to enrich soil with organic matter.",
+            "Boil old apples to make a natural fruit syrup or vinegar."
+        ],
+        "Mixed": [
+            "Separate fresh apples from the bad ones to prevent further spoilage.",
+            "Use the good portions of mixed-quality apples in salads or desserts.",
+            "Freeze apple slices to use later in cooking."
+        ]
+    },
+    "Banana": {
+        "Good": [
+            "Store bananas at room temperature to maintain freshness.",
+            "Hang bananas to prevent bruising and extend their shelf life.",
+            "Wrap the banana stems in plastic wrap to slow down ripening."
+        ],
+        "Bad": [
+            "Use overripe bananas for banana bread, pancakes, or smoothies.",
+            "Mash bad bananas and freeze them for later use in recipes.",
+            "Rotten bananas can be added to a compost bin to improve soil quality."
+        ],
+        "Mixed": [
+            "Separate ripe bananas from overly ripe ones to slow down the ripening process.",
+            "Use good parts of mixed bananas in fruit salads or milkshakes.",
+            "Store mixed bananas in a cool place to preserve the edible ones."
+        ]
+    },
+    "Orange": {
+        "Good": [
+            "Store oranges in a cool, dry place to keep them fresh for up to 2 weeks.",
+            "Refrigerate oranges in a perforated plastic bag for longer storage.",
+            "Avoid storing oranges near strong-smelling foods to prevent flavor absorption."
+            ],
+            "Bad": [
+            "Use spoiled oranges to make homemade citrus vinegar for cleaning.",
+            "Peel and dry orange peels for use in potpourri or tea.",
+            "Compost rotten oranges to recycle nutrients into the soil."
+            ],
+            "Mixed": [
+            "Sort out fresh oranges and store them separately from the bad ones.",
+            "Use the good portions of mixed oranges to make fresh juice.",
+            "Freeze orange slices for later use in beverages or recipes."
+        ]
+    },
+    "Guava": {
+        "Good": [
+            "Store guavas at room temperature until they ripen, then refrigerate to extend freshness.",
+            "Wrap guavas in paper and keep them in a cool, dark place to slow ripening.",
+            "Wash guavas thoroughly before eating to remove dirt and bacteria."
+        ],
+        "Bad": [
+            "Use overripe guavas in smoothies, jams, or guava paste.",
+            "Compost rotten guavas to enrich soil quality.",
+            "Extract juice from overripe guavas to use in sauces or beverages."
+        ],
+        "Mixed": [
+            "Separate ripe guavas from overripe ones to prevent further ripening.",
+            "Use the good portions of mixed guavas in fruit salads or desserts.",
+            "Freeze guava pulp for later use in cooking or drinks."
+        ]
+    },
+    "Pomegranate": {
+        "Good": [
+            "Store whole pomegranates in a cool, dry place for up to a month.",
+            "Refrigerate pomegranates for extended freshness up to two months.",
+            "Keep pomegranate arils in an airtight container in the fridge for up to a week."
+        ],
+        "Bad": [
+            "Use overripe pomegranates to make juice or syrup.",
+            "Compost rotten pomegranates to reduce waste.",
+            "Extract seeds from bad pomegranates and use them for garnishing dishes."
+        ],
+        "Mixed": [
+            "Separate fresh seeds from spoiled ones before storing.",
+            "Use the good portions of mixed pomegranates in salads or desserts.",
+            "Freeze pomegranate seeds for later use in cooking."
+        ]
+    },
+    "Lime": {
+        "Good": [
+            "Store limes in a cool, dry place for up to a week.",
+            "Refrigerate limes in a perforated plastic bag to keep them fresh longer.",
+            "Juice fresh limes and freeze the juice for later use."
+        ],
+        "Bad": [
+            "Use overripe limes to make homemade lime cleaning solutions.",
+            "Compost rotten limes to recycle nutrients back into the soil.",
+            "Extract juice from overripe limes for use in cooking."
+        ],
+        "Mixed": [
+            "Sort fresh limes from bad ones to prevent further spoilage.",
+            "Use the good portions of mixed limes to make lime-infused water.",
+            "Freeze lime zest for later use in recipes."
+        ]
+    },
+    "Lemon": {
+        "Good": [
+            "Store limes in a cool, dry place for up to a week.",
+            "Refrigerate limes in a perforated plastic bag to keep them fresh longer.",
+            "Juice fresh limes and freeze the juice for later use."
+        ],
+        "Bad": [
+            "Use overripe limes to make homemade lime cleaning solutions.",
+            "Compost rotten limes to recycle nutrients back into the soil.",
+            "Extract juice from overripe limes for use in cooking."
+        ],
+        "Mixed": [
+            "Sort fresh limes from bad ones to prevent further spoilage.",
+            "Use the good portions of mixed limes to make lime-infused water.",
+            "Freeze lime zest for later use in recipes."
+        ]
+    }
+}
+    
+    
